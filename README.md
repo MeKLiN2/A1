@@ -1,6 +1,6 @@
 # A1 DeSTRoYeR kit for windows 10 or 7
 # 1. put SetACL.exe in Windows\System32
-# 2. run A1.bat with NSUDO.exe,
+# 2. run A1.bat with NSUDO.exe
 
 
 
