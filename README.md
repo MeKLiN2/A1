@@ -12,3 +12,4 @@ WARNING: breaks start menu, makes windows take a minute to start up, breaks copy
 
 lowers input lag in FPS games drastically, reduces cpu to zero, breaks every moving thing windows has under its hood forever.
 archive.org/details/@meklin
+http://i.imgur.com/yEARsTt.png
