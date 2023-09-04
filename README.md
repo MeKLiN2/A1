@@ -1,6 +1,9 @@
 # A1 DeSTRoYeR kit for windows 10 or 7
+For elite PC gamers who need a boost in performance. See your computer's true power level unrestricted by under-the-hood windows apps that silently eat CPU and RAM.
+
 # 1. put SetACL.exe in Windows\System32
 # 2. run A1.bat with NSUDO.exe
+
 
 
 
