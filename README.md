@@ -1,7 +1,8 @@
-# A1
-A1 DeSTRoYeR kit for windows 10 or 7
+# A1 DeSTRoYeR kit for windows 10 or 7
+# 1. put SetACL.exe in Windows\System32
+# 2. run A1.bat with NSUDO.exe,
 
-run with NSUDO.exe
+
 
 
 WARNING: breaks start menu, makes windows take a minute to start up, breaks copy and paste and makes every explorer folder opened to another window unless you use the navigation bar.
