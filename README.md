@@ -1,6 +1,6 @@
-#echo                *********************************************************************
-#echo                ********** MeKLiN Method A1 DeSTRoYeR KIT FOR WINDOWS v2.0 **********
-#echo                *********************************************************************
+#                *********************************************************************
+#                ********** MeKLiN Method A1 DeSTRoYeR KIT FOR WINDOWS v2.0 **********
+#                *********************************************************************
 For elite PC gamers who need a boost in performance. See your computer's true power level unrestricted by under-the-hood windows apps that silently eat CPU and RAM.
 
 # 2. run A1.bat with NSUDO.exe or open !A1KITNSUDO.bat
@@ -10,8 +10,8 @@ WARNING: breaks start menu, makes windows take a minute to start up, breaks copy
 lowers input lag in FPS games drastically, reduces cpu to zero, breaks every moving thing windows has under its hood forever.
 http://i.imgur.com/yEARsTt.png
 
-echo                         [Lovingly hand-edited by MeKLiN Method  tinychat.com/cancers
-echo                         [Sept. 6 2023: MEANT TO BE RUN ON C:\   youtube.com/indicator27
-echo                         [       with NSUDO.EXE                  youtube.com/genjiaeneid
-echo                         [       github.com/meklin2              archive.org/details/@meklin
-echo                         [       github.com/meklin2/A1           facebook.com/DrMeklin
+                         [Lovingly hand-edited by MeKLiN Method  tinychat.com/cancers
+                         [Sept. 6 2023: MEANT TO BE RUN ON C:\   youtube.com/indicator27
+                         [       with NSUDO.EXE                  youtube.com/genjiaeneid
+                         [       github.com/meklin2              archive.org/details/@meklin
+                         [       github.com/meklin2/A1           facebook.com/DrMeklin
