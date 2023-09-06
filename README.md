@@ -10,8 +10,18 @@ WARNING: breaks start menu, makes windows take a minute to start up, breaks copy
 lowers input lag in FPS games drastically, reduces cpu to zero, breaks every moving thing windows has under its hood forever.
 http://i.imgur.com/yEARsTt.png
 
-#echo                         [Lovingly hand-edited by MeKLiN Method]  tinychat.com/cancers
-#echo                         [Sept. 6 2023: MEANT TO BE RUN ON C:\ ]  youtube.com/indicator27
-#echo                         [       with NSUDO.EXE                ]  youtube.com/genjiaeneid
-#echo                         [       github.com/meklin2            ]  archive.org/details/@meklin
-#echo                         [       github.com/meklin2/A1         ]  facebook.com/DrMeklin
+#echo                         [Lovingly hand-edited by MeKLiN Method] 
+tinychat.com/cancers
+
+#echo                         [Sept. 6 2023: MEANT TO BE RUN ON C:\ ] 
+youtube.com/indicator27
+
+#echo                         [       with NSUDO.EXE                ] 
+youtube.com/genjiaeneid
+
+#echo                         [       github.com/meklin2            ] 
+archive.org/details/@meklin
+
+#echo                         [       github.com/meklin2/A1         ] 
+facebook.com/DrMeklin
+
