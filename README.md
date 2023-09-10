@@ -1,4 +1,5 @@
 [A1_30.zip] (https://github.com/MeKLiN2/A1/files/12570085/A1_30.zip)
+[latest]    (https://github.com/MeKLiN2/A1/releases/tag/win10)
 #                *******************************************************
 #                 MeKLiN Method A1 DeSTRoYeR KIT FOR WINDOWS v3.0 
 #                *******************************************************
