@@ -1,6 +1,6 @@
-#                ***********************************************************
+#                *******************************************************
 #                 MeKLiN Method A1 DeSTRoYeR KIT FOR WINDOWS v2.0 
-#                ***********************************************************
+#                *******************************************************
 For elite PC gamers who need a boost in performance. See your computer's true power level unrestricted by under-the-hood windows apps that silently eat CPU and RAM.
 
 # 2. run A1.bat with NSUDO.exe or open !A1KITNSUDO.bat
