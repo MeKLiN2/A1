@@ -1,7 +1,7 @@
 [A1_30.zip] (https://github.com/MeKLiN2/A1/files/12570085/A1_30.zip)
 [latest]    (https://github.com/MeKLiN2/A1/releases/tag/win10)
 #                *******************************************************
-#                 MeKLiN Method A1 DeSTRoYeR KIT FOR WINDOWS v3.0 
+#                 MeKLiN Method A1 DeSTRoYeR KIT FOR WINDOWS v3.1
 #                *******************************************************
 For elite PC gamers who need a boost in performance. See your computer's true power level unrestricted by under-the-hood windows apps that silently eat CPU and RAM.
 
@@ -14,7 +14,7 @@ http://i.imgur.com/yEARsTt.png 2.0
 https://i.imgur.com/39eWvwd.png 3.0
 
                          [Lovingly hand-edited by MeKLiN Method  tinychat.com/cancers
-                         [Sept. 6 2023: MEANT TO BE RUN ON C:\   youtube.com/indicator27
+                         [Sept. 9 2023: MEANT TO BE RUN ON C:\   youtube.com/indicator27
                          [       with NSUDO.EXE                  youtube.com/genjiaeneid
                          [       github.com/meklin2              archive.org/details/@meklin
                          [       github.com/meklin2/A1           facebook.com/DrMeklin
