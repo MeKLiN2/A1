@@ -1,0 +1,187 @@
+rename.bat and renn.bat cleaned and ran. steam and rust ok. problem lies in servbasic.bat
+---
+taskbar programs shown is delayed or broken. works occasionally, even after rename.bat and renn.bat
+taskbar shows up around the time of a rust test, 2-3 mins after winlogon and steam open. pops up over rust.exe even if rust.exe is fullscreen.
+---
+servbasic.bat fixed and ran -- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------
+ ***ALL CLEARED EXCEPT RENN.BAT, RENAME.BAT, SERVBASIC.BAT ***
+--------------------------------------------------------------
+etl dot bet breaks start menu and copy paste and poss delay startup, or bat above
+-
+lord kit serv breaks steam?
+-
+hello bat breaks steam, esent.dll no longer found in syswow64 and needs system32's version
+----------------------
+new:
+----
+0000000LORDKIT1SERV.BAT causes winlogon lag
+----
+00KitOnlyGUID.reg OR
+007700EVENTSYSTEMKIT.reg
+cause steam to not start up right away, if it ever was going to
+processhacker>modules showed clbcatq.dll -- part of eventkit
+renamed and steam starts
+---
+A1FULLKIT.REG screws up explorer, obviously. steam is not opening. (because steamwebhelper) which must have its modules checked
+WIN + R is not working, spinning circles on start menu, no right click taskbar, was fixed when full kit ran before, though.
+fix: ren c:\windows\system32\appxdeploymentclient.dll appxdeploymentclient.dl
+alt tab not working, is fixed by full script run (as before)
+---
+blink fix: reg delete HKEY_CLASSES_ROOT\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628} /f
+blink kit regs did nothing:
+perhaps renaming OneCoreCommonProxyStub.dll would fix it alone. so much uses this stub a6ff50c0
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}]
+@="PSFactoryBuffer"
+
+[HKEY_CLASSES_ROOT\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}\InProcServer32]
+@="C:\\Windows\\System32\\OneCoreCommonProxyStub.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}]
+@="PSFactoryBuffer"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{A6FF50C0-56C0-71CA-5732-BED303A59628}\InProcServer32]
+@="C:\\Windows\\SysWOW64\\OneCoreCommonProxyStub.dll"
+"ThreadingModel"="Both"
+
+---
+blackbird not running at this point.
+steam ok.
+---
+fix9.bat breaks winboot. ehstorclass caused from its service disabled. rename all .sys and reboot.
+may have broken taskbar showing open programs, or delays it opening from explorer.exe lagging / loading cursor on start menu.
+task kill?
+ehstorclass disabled and fix9.bat cleared with final command:
+reg add HKEY_LOCAL_MACHINE\system\CONTROLSET001\CONTROL\CLASS\{4d36e967-e325-11ce-bfc1-08002be10318} /v LowerFilters /t reg_multi_sz /d "" /f
+---
+hello.bat erroneous setacl on hklm sys cs1 enum root probably causing rusts hid.dll problem. fixed.
+---
+hello.bat contained dberr and catroot2 readonly commands issued, possibly problem for rust which accessses those.
+---
+remove drvinst.exe rename in hello.bat
+---
+things at end of scripts are where they caused problems, as thats what ended it getting new commands.
+remove the .nls and nlsdata0000.dll deletes from hello.bat
+---
+no items in ncpa.cpl device properties, no items in task bar. right click it works, alt tab, win r works.
+running hello.bat after setacl.exe in \system32 -- hello.bat cleared.
+---
+renn.bat and rename.bat then servbasic.bat. wmic_virus, wininetkit, logman, lodctr, unlodctr, netsh not problems
+kitspp and searchkit regs will be imported before servbasic.bat
+--------------------------------------------------------------
+ ***ALL CLEARED EXCEPT RENN.BAT, RENAME.BAT, SERVBASIC.BAT ***
+--------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

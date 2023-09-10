@@ -1,0 +1,23 @@
+
+reg add hklm\system\controlset001\services\buttonconverter /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\userdatasvc_1aab8 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\arcsas /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\dnscache /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\wersvc /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\ndisimplatform /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\tsusbflt /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\netadaptercx /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\ndiswanlegacy /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\aarsvc_193cb /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\BluetoothUserService_193cb /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\BluetoothUserService /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\MsSecWfp /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\BTAGService /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\msquic /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\BthA2dp /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\nvstor /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\nvraid /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\nvdimm /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\autotimesvc /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\mshidumdf /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\msgpiowin32 /v "Start" /t REG_DWORD /d 4 /f
