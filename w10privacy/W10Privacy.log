@@ -1,0 +1,958 @@
+2023-06-17  17:01:53,840 : ________
+2023-06-17  17:01:53,843 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [19045] 
+2023-06-17  17:01:53,846 : W10Privacy wurde über den Benutzer <MEK> gestartet.
+2023-06-17  17:01:53,847 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-06-17  17:01:53,955 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-17  17:01:54,011 : Fehler bei der Ermittlung der aktiven Aufgaben des Systems.
+2023-06-17  17:01:54,043 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-17  17:01:54,045 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-17  17:01:55,899 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-17  17:01:55,901 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-17  17:01:56,116 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-17  17:02:06,096 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-17  17:02:06,196 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-17  17:02:06,270 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,270 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,270 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,271 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,272 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:06,273 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,629 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,629 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,629 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,629 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,630 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,630 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,630 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:02:10,630 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:38,493 : Bearbeite Aktions-ID <_zugriff_auf_kamera>
+2023-06-17  17:03:38,494 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\webcam\Value -> Allow
+2023-06-17  17:03:38,498 : Bearbeite Aktions-ID <_zugriff_auf_mikrofon>
+2023-06-17  17:03:38,499 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\microphone\Value -> Allow
+2023-06-17  17:03:38,504 : Bearbeite Aktions-ID <_edgeupdate>
+2023-06-17  17:03:38,505 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdate\Start -> 4
+2023-06-17  17:03:38,511 : Bearbeite Aktions-ID <_edgeupdatem>
+2023-06-17  17:03:38,512 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdatem\Start -> 4
+2023-06-17  17:03:38,516 : Bearbeite Aktions-ID <_retaildemo>
+2023-06-17  17:03:38,517 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\retaildemo\Start -> 4
+2023-06-17  17:03:38,524 : Bearbeite Aktions-ID <_edge_shoppingassistant_user>
+2023-06-17  17:03:38,525 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\EdgeShoppingAssistantEnabled -> 0
+2023-06-17  17:03:38,530 : Bearbeite Aktions-ID <_edge_localproviders>
+2023-06-17  17:03:38,531 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\LocalProvidersEnabled -> 0
+2023-06-17  17:03:38,535 : Bearbeite Aktions-ID <_edge_startupboost>
+2023-06-17  17:03:38,536 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\StartupBoostEnabled -> 0
+2023-06-17  17:03:38,541 : Bearbeite Aktions-ID <_edge_hubssidebar>
+2023-06-17  17:03:38,542 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\HubsSidebarEnabled -> 0
+2023-06-17  17:03:38,546 : Bearbeite Aktions-ID <_edge_follow>
+2023-06-17  17:03:38,547 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\EdgeFollowEnabled -> 0
+2023-06-17  17:03:38,551 : Bearbeite Aktions-ID <_edge_follow_user>
+2023-06-17  17:03:38,553 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\EdgeFollowEnabled -> 0
+2023-06-17  17:03:38,556 : Aufgabe <Microsoft Compatibility Appraiser> wird nun deaktiviert!
+2023-06-17  17:03:38,643 : Aufgabe <ProgramDataUpdater> wird nun deaktiviert!
+2023-06-17  17:03:38,732 : Aufgabe <Proxy> wird nun deaktiviert!
+2023-06-17  17:03:38,824 : Aufgabe <Consolidator> wird nun deaktiviert!
+2023-06-17  17:03:38,915 : Aufgabe <KernelCeipTask> wird nun deaktiviert!
+2023-06-17  17:03:39,006 : Aufgabe <UsbCeip> wird nun deaktiviert!
+2023-06-17  17:03:39,096 : Aufgabe <Microsoft-Windows-DiskDiagnosticDataCollector> wird nun deaktiviert!
+2023-06-17  17:03:39,187 : Aufgabe <DmClient> wird nun deaktiviert!
+2023-06-17  17:03:39,277 : Aufgabe <FamilySafetyMonitor> wird nun deaktiviert!
+2023-06-17  17:03:39,368 : Aufgabe <FamilySafetyRefresh> wird nun deaktiviert!
+2023-06-17  17:03:39,460 : Aufgabe <Windows Defender Cache Maintenance> wird nun deaktiviert!
+2023-06-17  17:03:39,557 : Aufgabe <Windows Defender Cleanup> wird nun deaktiviert!
+2023-06-17  17:03:39,653 : Aufgabe <Windows Defender Scheduled Scan> wird nun deaktiviert!
+2023-06-17  17:03:39,750 : Aufgabe <Windows Defender Verification> wird nun deaktiviert!
+2023-06-17  17:03:39,849 : Aufgabe <SmartScreenSpecific> wird nun deaktiviert!
+2023-06-17  17:03:39,946 : Aufgabe <WinSAT> wird nun deaktiviert!
+2023-06-17  17:03:40,039 : Aufgabe <Office 15 Subscription Heartbeat> wird nun deaktiviert!
+2023-06-17  17:03:40,126 : Aufgabe <OfficeTelemetryAgentFallBack> wird nun deaktiviert!
+2023-06-17  17:03:40,225 : Aufgabe <OfficeTelemetryAgentLogOn> wird nun deaktiviert!
+2023-06-17  17:03:40,317 : Aufgabe <OfficeTelemetryAgentFallBack2016> wird nun deaktiviert!
+2023-06-17  17:03:40,408 : Aufgabe <OfficeTelemetryAgentLogOn2016> wird nun deaktiviert!
+2023-06-17  17:03:40,500 : Aufgabe <Office Automatic Updates> wird nun deaktiviert!
+2023-06-17  17:03:40,600 : Aufgabe <Office ClickToRun Service Monitor> wird nun deaktiviert!
+2023-06-17  17:03:40,698 : Aufgabe <Office Automatic Updates 2.0> wird nun deaktiviert!
+2023-06-17  17:03:40,794 : Aufgabe <Office Feature Updates> wird nun deaktiviert!
+2023-06-17  17:03:40,890 : Aufgabe <Office Feature Updates Logon> wird nun deaktiviert!
+2023-06-17  17:03:40,985 : Aufgabe <OfficeBackgroundTaskHandlerLogon> wird nun deaktiviert!
+2023-06-17  17:03:41,076 : Aufgabe <OfficeBackgroundTaskHandlerRegistration> wird nun deaktiviert!
+2023-06-17  17:03:41,168 : Aufgabe <CacheTask> wird nun deaktiviert!
+2023-06-17  17:03:41,259 : Aufgabe <Scheduled> wird nun deaktiviert!
+2023-06-17  17:03:41,351 : Aufgabe <QueueReporting> wird nun deaktiviert!
+2023-06-17  17:03:41,441 : Aufgabe <Device> wird nun deaktiviert!
+2023-06-17  17:03:41,771 : Aufgabe <MicrosoftEdgeUpdateTaskMachineCore> wird nun deaktiviert!
+2023-06-17  17:03:41,873 : Aufgabe <MicrosoftEdgeUpdateTaskMachineUA> wird nun deaktiviert!
+2023-06-17  17:03:41,962 : Bearbeite Aktions-ID <_wu_updates_nur_im_lan>
+2023-06-17  17:03:41,963 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\DeliveryOptimization\Config\DODownloadMode -> 1
+2023-06-17  17:03:41,968 : Bearbeite Aktions-ID <_cloud_consumer_account>
+2023-06-17  17:03:41,969 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent\DisableConsumerAccountStateContent -> 1
+2023-06-17  17:03:44,166 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-17  17:03:44,212 : Fehler bei der Ermittlung der aktiven Aufgaben des Systems.
+2023-06-17  17:03:44,247 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-17  17:03:44,249 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-17  17:03:45,776 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-17  17:03:45,869 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-17  17:03:45,961 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-17  17:03:54,828 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-17  17:03:54,913 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-17  17:03:54,986 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,986 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,986 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,986 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,986 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,986 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,987 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,988 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:54,989 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,122 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,921 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,921 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,921 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,921 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,921 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,921 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:03:58,922 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  17:04:06,984 : W10Privacy wird beendet.
+2023-06-17  19:58:41,153 : ________
+2023-06-17  19:58:41,156 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [19045] 
+2023-06-17  19:58:41,159 : W10Privacy wurde über den Benutzer <MEK> gestartet.
+2023-06-17  19:58:41,160 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-06-17  19:58:41,263 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-17  19:58:41,323 : Fehler bei der Ermittlung der aktiven Aufgaben des Systems.
+2023-06-17  19:58:41,357 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-17  19:58:41,359 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-17  19:58:43,166 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-17  19:58:43,169 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-17  19:58:43,356 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-17  19:58:52,401 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-17  19:58:52,481 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-17  19:58:52,555 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,555 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,555 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,555 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,555 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,556 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,557 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:52,558 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,702 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,702 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,702 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,702 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,702 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,702 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,703 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  19:58:55,703 : Variable $aAufgaben kein Array, Ermittlung der Aufgaben-Aktivität nicht durchführbar.
+2023-06-17  20:06:44,862 : W10Privacy wird beendet.
+2023-06-26  16:33:10,480 : ________
+2023-06-26  16:33:10,485 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [2004] 
+2023-06-26  16:33:10,492 : W10Privacy wurde über den Benutzer <Administrator> gestartet.
+2023-06-26  16:33:10,495 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-06-26  16:33:10,613 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-26  16:33:10,924 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-26  16:33:10,926 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-26  16:33:10,952 : Fehler beim Einlesen der Benutzer-Apps-Ausgabe zur Ermittlung der Benutzer-Apps.
+2023-06-26  16:33:10,977 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-26  16:33:10,979 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-26  16:33:11,151 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-26  16:33:19,173 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-26  16:33:19,235 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-26  16:35:47,295 : Bearbeite Aktions-ID <_aktivitaetsverlauf>
+2023-06-26  16:35:47,295 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\EnableActivityFeed -> 0
+2023-06-26  16:35:47,295 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\UploadUserActivities -> 0
+2023-06-26  16:35:47,295 : Bearbeite Aktions-ID <_anwendungstelemetrie>
+2023-06-26  16:35:47,295 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat\AITEnable -> 0
+2023-06-26  16:35:47,295 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat\AllowTelemetry -> 0
+2023-06-26  16:35:47,311 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection\AllowTelemetry -> 0
+2023-06-26  16:35:47,311 : Bearbeite Aktions-ID <_kundenzufriedenheit>
+2023-06-26  16:35:47,311 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\SQMClient\Windows\CEIPEnable -> 0
+2023-06-26  16:35:47,311 : Bearbeite Aktions-ID <_benutzeraktivitaeten>
+2023-06-26  16:35:47,311 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\PublishUserActivities -> 0
+2023-06-26  16:35:47,326 : Bearbeite Aktions-ID <_positionserkennung_benutzer>
+2023-06-26  16:35:47,326 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{BFA794E4-F964-4FDB-90F6-51056BFE4B44}\Value -> Deny
+2023-06-26  16:35:47,326 : Bearbeite Aktions-ID <_spracherkennung>
+2023-06-26  16:35:47,326 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Personalization\Settings\AcceptedPrivacyPolicy -> 0
+2023-06-26  16:35:47,326 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\InputPersonalization\RestrictImplicitTextCollection -> 1
+2023-06-26  16:35:47,342 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Personalization\Settings\RestrictImplicitInkCollection -> 1
+2023-06-26  16:35:47,342 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\InputPersonalization\TrainedDataStore\HarvestContacts -> 0
+2023-06-26  16:35:47,342 : Bearbeite Aktions-ID <_diagnose>
+2023-06-26  16:35:47,342 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry -> 0
+2023-06-26  16:35:47,342 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack\DiagTrackAuthorization -> 7
+2023-06-26  16:35:47,358 : Bearbeite Aktions-ID <_inventory>
+2023-06-26  16:35:47,358 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat\DisableInventory -> 1
+2023-06-26  16:35:47,358 : Bearbeite Aktions-ID <_kennwortanzeige>
+2023-06-26  16:35:47,358 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\CredUI\DisablePasswordReveal -> 1
+2023-06-26  16:35:47,358 : Bearbeite Aktions-ID <_WindowsMediaDRM>
+2023-06-26  16:35:47,358 : Registrierungsschlüssel wird gesetzt HKLM\Software\Policies\Microsoft\WMDRM\DisableOnline -> 1
+2023-06-26  16:35:47,373 : Bearbeite Aktions-ID <_Defender_Sicherheitsprobleme>
+2023-06-26  16:35:47,373 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet\SpyNetReporting -> 0
+2023-06-26  16:35:47,373 : Bearbeite Aktions-ID <_Defender_Beispiele>
+2023-06-26  16:35:47,373 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet\SubmitSamplesConsent -> 2
+2023-06-26  16:35:47,389 : Bearbeite Aktions-ID <_MRT_Schadsoftware>
+2023-06-26  16:35:47,389 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\MRT\DontReportInfectionInformation -> 1
+2023-06-26  16:35:47,389 : Bearbeite Aktions-ID <_fehlerberichterstattung>
+2023-06-26  16:35:47,389 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\Disabled -> 1
+2023-06-26  16:35:47,389 : Bearbeite Aktions-ID <_memory_dumps>
+2023-06-26  16:35:47,389 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\AutoApproveOSDumps -> 0
+2023-06-26  16:35:47,404 : Bearbeite Aktions-ID <_wer_additional_data>
+2023-06-26  16:35:47,404 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\DontSendAdditionalData -> 1
+2023-06-26  16:35:47,404 : Bearbeite Aktions-ID <_handschriftendaten>
+2023-06-26  16:35:47,404 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\TabletPC\PreventHandwritingDataSharing -> 1
+2023-06-26  16:35:47,420 : Bearbeite Aktions-ID <_handschriftenerkennung_fehlerbericht>
+2023-06-26  16:35:47,420 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\HandwritingErrorReports\PreventHandwritingErrorReports -> 1
+2023-06-26  16:35:47,420 : Bearbeite Aktions-ID <_abgleich_einstellungen_mit_cloud>
+2023-06-26  16:35:47,420 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\SettingSync\DisableSettingSync -> 2
+2023-06-26  16:35:47,420 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\SettingSync\DisableSettingSyncUserOverride -> 1
+2023-06-26  16:35:47,420 : Bearbeite Aktions-ID <_notification_on_diagnostic_data_level>
+2023-06-26  16:35:47,436 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection\DisableTelemetryOptInChangeNotification -> 1
+2023-06-26  16:35:47,436 : Bearbeite Aktions-ID <_app_installation>
+2023-06-26  16:35:47,436 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SilentInstalledAppsEnabled -> 0
+2023-06-26  16:35:47,436 : Bearbeite Aktions-ID <_app_push_install>
+2023-06-26  16:35:47,436 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PushToInstall\DisablePushToInstall -> 1
+2023-06-26  16:35:47,451 : Bearbeite Aktions-ID <_werbungs_id_global>
+2023-06-26  16:35:47,451 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AdvertisingInfo\DisabledByGroupPolicy -> 1
+2023-06-26  16:35:47,451 : Bearbeite Aktions-ID <_benachrichtigungen>
+2023-06-26  16:35:47,451 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{52079E78-A92B-413F-B213-E8FE35712E72}\Value -> Deny
+2023-06-26  16:35:47,451 : Bearbeite Aktions-ID <_funkempfang>
+2023-06-26  16:35:47,467 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{A8804298-2D5F-42E3-9531-9C8C39EB29CE}\Value -> Deny
+2023-06-26  16:35:47,467 : Bearbeite Aktions-ID <_Apps_andere_Geraete>
+2023-06-26  16:35:47,467 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\SmartGlass\UserAuthPolicy -> 0
+2023-06-26  16:35:47,467 : Bearbeite Aktions-ID <_Apps_andere_Geraete_Bluetooth>
+2023-06-26  16:35:47,467 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\SmartGlass\BluetoothPolicy -> 0
+2023-06-26  16:35:47,483 : Bearbeite Aktions-ID <_diagnosedaten_apps>
+2023-06-26  16:35:47,483 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{2297E4E2-5DBE-466D-A12B-0F8286F0D9CA}\Value -> Deny
+2023-06-26  16:35:47,483 : Bearbeite Aktions-ID <_Apps_auf_Stimmaktivierung>
+2023-06-26  16:35:47,483 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy\LetAppsActivateWithVoice -> 2
+2023-06-26  16:35:47,498 : Bearbeite Aktions-ID <_cortana>
+2023-06-26  16:35:47,498 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\AllowCortana -> 0
+2023-06-26  16:35:47,498 : Bearbeite Aktions-ID <_cortana_pos>
+2023-06-26  16:35:47,498 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\AllowSearchToUseLocation -> 0
+2023-06-26  16:35:47,498 : Bearbeite Aktions-ID <_websearch>
+2023-06-26  16:35:47,498 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\ConnectedSearchUseWeb -> 0
+2023-06-26  16:35:47,498 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\DisableWebSearch -> 1
+2023-06-26  16:35:47,514 : Bearbeite Aktions-ID <_websearch_cloud>
+2023-06-26  16:35:47,514 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search\AllowCloudSearch -> 0
+2023-06-26  16:35:47,514 : Bearbeite Aktions-ID <_wlan_hotspot>
+2023-06-26  16:35:47,514 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1410569957-3237352815-2434289237-500\FeatureStates -> 892
+2023-06-26  16:35:47,529 : Bearbeite Aktions-ID <_wlan_kontakte>
+2023-06-26  16:35:47,529 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1410569957-3237352815-2434289237-500\FeatureStates -> 829
+2023-06-26  16:35:47,529 : Bearbeite Aktions-ID <_wlan_kostenpflichtig>
+2023-06-26  16:35:47,529 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1410569957-3237352815-2434289237-500\FeatureStates -> 381
+2023-06-26  16:35:47,529 : Bearbeite Aktions-ID <_wlan_outlook>
+2023-06-26  16:35:47,545 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1410569957-3237352815-2434289237-500\SocialNetworks\ABCH\OptInStatus -> 0
+2023-06-26  16:35:47,545 : Bearbeite Aktions-ID <_wlan_skype>
+2023-06-26  16:35:47,545 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1410569957-3237352815-2434289237-500\SocialNetworks\ABCH-SKYPE\OptInStatus -> 0
+2023-06-26  16:35:47,545 : Bearbeite Aktions-ID <_wlan_facebook>
+2023-06-26  16:35:47,545 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-1410569957-3237352815-2434289237-500\SocialNetworks\FACEBOOK\OptInStatus -> 0
+2023-06-26  16:35:47,561 : Bearbeite Aktions-ID <_verknuepfungspfeile>
+2023-06-26  16:35:47,561 : Kopiere Datei <Leeres_Icon.ico> in den Pfad <C:\ProgramData\Microsoft\Icons>
+2023-06-26  16:35:47,561 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons\29 -> C:\ProgramData\Microsoft\Icons\Leeres_Icon.ico,0
+2023-06-26  16:35:47,561 : Bearbeite Aktions-ID <_verknuepfungsbezeichnung>
+2023-06-26  16:35:47,561 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\link -> 0x00000000
+2023-06-26  16:35:47,561 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\NamingTemplates\ShortcutNameTemplate -> "%s.lnk"
+2023-06-26  16:35:47,576 : Bearbeite Aktions-ID <_vertikaler_iconabstand>
+2023-06-26  16:35:47,576 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\IconVerticalSpacing -> -1150
+2023-06-26  16:35:47,576 : Bearbeite Aktions-ID <_thumbnail_cache_bilder>
+2023-06-26  16:35:47,576 : Registrierungsschlüssel wird gesetzt HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoThumbnailCache -> 1
+2023-06-26  16:35:47,576 : Registrierungsschlüssel wird gesetzt HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisableThumbnailCache -> 1
+2023-06-26  16:35:47,576 : Registrierungsschlüssel wird gesetzt HKLM\Software\Policies\Microsoft\Windows\Explorer\DisableThumbsDBOnNetworkFolders -> 1
+2023-06-26  16:35:47,592 : Bearbeite Aktions-ID <_thumbnail_cache_bilder2>
+2023-06-26  16:35:47,592 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\NoThumbnailCache -> 1
+2023-06-26  16:35:47,592 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\DisableThumbnailCache -> 1
+2023-06-26  16:35:47,592 : Bearbeite Aktions-ID <_thumbnail_alle_formate>
+2023-06-26  16:35:47,592 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\IconsOnly -> 1
+2023-06-26  16:35:47,608 : Bearbeite Aktions-ID <_suchhistorie>
+2023-06-26  16:35:47,608 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer\DisableSearchBoxSuggestions -> 1
+2023-06-26  16:35:47,608 : Bearbeite Aktions-ID <_infos_gestartete_programme_dateien>
+2023-06-26  16:35:47,608 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoInstrumentation -> 1
+2023-06-26  16:35:47,608 : Bearbeite Aktions-ID <_explorer_meet_now>
+2023-06-26  16:35:47,623 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\HideSCAMeetNow -> 1
+2023-06-26  16:35:47,623 : Bearbeite Aktions-ID <_explorer_meet_now_user>
+2023-06-26  16:35:47,623 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\HideSCAMeetNow -> 1
+2023-06-26  16:35:47,623 : Bearbeite Aktions-ID <_explorer_feeds_taskbar>
+2023-06-26  16:35:47,623 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds\EnableFeeds -> 0
+2023-06-26  16:35:47,639 : Bearbeite Aktions-ID <_explorer_autosuggest>
+2023-06-26  16:35:47,639 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\AutoComplete\AutoSuggest -> no
+2023-06-26  16:35:47,639 : Bearbeite Aktions-ID <_diagnosticshub>
+2023-06-26  16:35:47,639 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\diagnosticshub.standardcollector.service\Start -> 4
+2023-06-26  16:35:47,654 : Bearbeite Aktions-ID <_dmwappushsvc>
+2023-06-26  16:35:47,654 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\dmwappushservice\Start -> 4
+2023-06-26  16:35:47,654 : Bearbeite Aktions-ID <_DoSvc>
+2023-06-26  16:35:47,654 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc\Start -> 4
+2023-06-26  16:35:47,654 : Bearbeite Aktions-ID <_geolocation>
+2023-06-26  16:35:47,654 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lfsvc\Start -> 4
+2023-06-26  16:35:47,670 : Bearbeite Aktions-ID <_biometrie>
+2023-06-26  16:35:47,670 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WbioSrvc\Start -> 4
+2023-06-26  16:35:47,670 : Bearbeite Aktions-ID <_defender>
+2023-06-26  16:35:47,670 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\DisableAntiSpyware -> 1
+2023-06-26  16:35:47,670 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableBehaviorMonitoring -> 1
+2023-06-26  16:35:47,670 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableOnAccessProtection -> 1
+2023-06-26  16:35:47,670 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableScanOnRealtimeEnable -> 1
+2023-06-26  16:35:47,686 : Bearbeite Aktions-ID <_edgeupdate>
+2023-06-26  16:35:47,686 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdate\Start -> 4
+2023-06-26  16:35:47,686 : Bearbeite Aktions-ID <_edgeupdatem>
+2023-06-26  16:35:47,686 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdatem\Start -> 4
+2023-06-26  16:35:47,701 : Bearbeite Aktions-ID <_retaildemo>
+2023-06-26  16:35:47,701 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\retaildemo\Start -> 4
+2023-06-26  16:35:47,701 : Bearbeite Aktions-ID <_edge_donotupdate>
+2023-06-26  16:35:47,701 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\EdgeUpdate\DoNotUpdateToEdgeWithChromium -> 1
+2023-06-26  16:35:47,717 : Bearbeite Aktions-ID <_edge_donottrack>
+2023-06-26  16:35:47,717 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\ConfigureDoNotTrack -> 1
+2023-06-26  16:35:47,717 : Bearbeite Aktions-ID <_edge_donottrack_user>
+2023-06-26  16:35:47,717 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\ConfigureDoNotTrack -> 1
+2023-06-26  16:35:47,717 : Bearbeite Aktions-ID <_edge_smartscreen>
+2023-06-26  16:35:47,733 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SmartScreenEnabled -> 0
+2023-06-26  16:35:47,733 : Bearbeite Aktions-ID <_edge_smartscreen_user>
+2023-06-26  16:35:47,733 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SmartScreenEnabled -> 0
+2023-06-26  16:35:47,733 : Bearbeite Aktions-ID <_edge_networkprediction>
+2023-06-26  16:35:47,733 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\NetworkPredictionOptions -> 2
+2023-06-26  16:35:47,748 : Bearbeite Aktions-ID <_edge_networkprediction_user>
+2023-06-26  16:35:47,748 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\NetworkPredictionOptions -> 2
+2023-06-26  16:35:47,748 : Bearbeite Aktions-ID <_edge_searchsuggest>
+2023-06-26  16:35:47,748 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SearchSuggestEnabled -> 0
+2023-06-26  16:35:47,748 : Bearbeite Aktions-ID <_edge_searchsuggest_user>
+2023-06-26  16:35:47,764 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SearchSuggestEnabled -> 0
+2023-06-26  16:35:47,764 : Bearbeite Aktions-ID <_edge_autofilladdress>
+2023-06-26  16:35:47,764 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AutofillAddressEnabled -> 0
+2023-06-26  16:35:47,764 : Bearbeite Aktions-ID <_edge_autofilladdress_user>
+2023-06-26  16:35:47,764 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AutofillAddressEnabled -> 0
+2023-06-26  16:35:47,779 : Bearbeite Aktions-ID <_edge_resolvenavigationerrors>
+2023-06-26  16:35:47,779 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\ResolveNavigationErrorsUseWebService -> 0
+2023-06-26  16:35:47,779 : Bearbeite Aktions-ID <_edge_resolvenavigationerrors_user>
+2023-06-26  16:35:47,779 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\ResolveNavigationErrorsUseWebService -> 0
+2023-06-26  16:35:47,779 : Bearbeite Aktions-ID <_edge_alternateerrorpages>
+2023-06-26  16:35:47,795 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AlternateErrorPagesEnabled -> 0
+2023-06-26  16:35:47,795 : Bearbeite Aktions-ID <_edge_alternateerrorpages_user>
+2023-06-26  16:35:47,795 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AlternateErrorPagesEnabled -> 0
+2023-06-26  16:35:47,795 : Bearbeite Aktions-ID <_edge_sendsiteinfo>
+2023-06-26  16:35:47,795 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SendSiteInfoToImproveServices -> 0
+2023-06-26  16:35:47,811 : Bearbeite Aktions-ID <_edge_sendsiteinfo_user>
+2023-06-26  16:35:47,811 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SendSiteInfoToImproveServices -> 0
+2023-06-26  16:35:47,811 : Bearbeite Aktions-ID <_edge_personalizationreporting>
+2023-06-26  16:35:47,811 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\PersonalizationReportingEnabled -> 0
+2023-06-26  16:35:47,826 : Bearbeite Aktions-ID <_edge_personalizationreporting_user>
+2023-06-26  16:35:47,826 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\PersonalizationReportingEnabled -> 0
+2023-06-26  16:35:47,826 : Bearbeite Aktions-ID <_edge_metricsreporting>
+2023-06-26  16:35:47,826 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\MetricsReportingEnabled -> 0
+2023-06-26  16:35:47,826 : Bearbeite Aktions-ID <_edge_metricsreporting_user>
+2023-06-26  16:35:47,826 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\MetricsReportingEnabled -> 0
+2023-06-26  16:35:47,842 : Bearbeite Aktions-ID <_edge_paymentmethodquery>
+2023-06-26  16:35:47,842 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\PaymentMethodQueryEnabled -> 0
+2023-06-26  16:35:47,842 : Bearbeite Aktions-ID <_edge_paymentmethodquery_user>
+2023-06-26  16:35:47,842 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\PaymentMethodQueryEnabled -> 0
+2023-06-26  16:35:47,858 : Bearbeite Aktions-ID <_edge_autofillcreditcard>
+2023-06-26  16:35:47,858 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AutofillCreditCardEnabled -> 0
+2023-06-26  16:35:47,858 : Bearbeite Aktions-ID <_edge_autofillcreditcard_user>
+2023-06-26  16:35:47,858 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AutofillCreditCardEnabled -> 0
+2023-06-26  16:35:47,858 : Bearbeite Aktions-ID <_edge_addressbarsearch>
+2023-06-26  16:35:47,858 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AddressBarMicrosoftSearchInBingProviderEnabled -> 0
+2023-06-26  16:35:47,873 : Bearbeite Aktions-ID <_edge_addressbarsearch_user>
+2023-06-26  16:35:47,873 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AddressBarMicrosoftSearchInBingProviderEnabled -> 0
+2023-06-26  16:35:47,873 : Bearbeite Aktions-ID <_edge_userfeedback>
+2023-06-26  16:35:47,873 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\UserFeedbackAllowed -> 0
+2023-06-26  16:35:47,889 : Bearbeite Aktions-ID <_edge_userfeedback_user>
+2023-06-26  16:35:47,889 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\UserFeedbackAllowed -> 0
+2023-06-26  16:35:47,889 : Bearbeite Aktions-ID <_edge_blockthirdpartycookies>
+2023-06-26  16:35:47,889 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\BlockThirdPartyCookies -> 1
+2023-06-26  16:35:47,889 : Bearbeite Aktions-ID <_edge_blockthirdpartycookies_user>
+2023-06-26  16:35:47,889 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\BlockThirdPartyCookies -> 1
+2023-06-26  16:35:47,904 : Bearbeite Aktions-ID <_edge_trackingprevention>
+2023-06-26  16:35:47,904 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\TrackingPrevention -> 3
+2023-06-26  16:35:47,904 : Bearbeite Aktions-ID <_edge_trackingprevention_user>
+2023-06-26  16:35:47,904 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\TrackingPrevention -> 3
+2023-06-26  16:35:47,920 : Bearbeite Aktions-ID <_edge_sync>
+2023-06-26  16:35:47,920 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SyncDisabled -> 0
+2023-06-26  16:35:47,920 : Bearbeite Aktions-ID <_edge_sync_user>
+2023-06-26  16:35:47,920 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SyncDisabled -> 0
+2023-06-26  16:35:47,920 : Bearbeite Aktions-ID <_edge_defaultgeolocationsetting>
+2023-06-26  16:35:47,920 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\DefaultGeolocationSetting -> 3
+2023-06-26  16:35:47,936 : Bearbeite Aktions-ID <_edge_defaultgeolocationsetting_user>
+2023-06-26  16:35:47,936 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\DefaultGeolocationSetting -> 3
+2023-06-26  16:35:47,936 : Bearbeite Aktions-ID <_edge_shoppingassistant>
+2023-06-26  16:35:47,936 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\EdgeShoppingAssistantEnabled -> 0
+2023-06-26  16:35:47,951 : Bearbeite Aktions-ID <_edge_shoppingassistant_user>
+2023-06-26  16:35:47,951 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\EdgeShoppingAssistantEnabled -> 0
+2023-06-26  16:35:47,951 : Bearbeite Aktions-ID <_edge_localproviders>
+2023-06-26  16:35:47,951 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\LocalProvidersEnabled -> 0
+2023-06-26  16:35:47,951 : Bearbeite Aktions-ID <_edge_localproviders_user>
+2023-06-26  16:35:47,967 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\LocalProvidersEnabled -> 0
+2023-06-26  16:35:47,967 : Bearbeite Aktions-ID <_edge_prelaunch>
+2023-06-26  16:35:47,967 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main\AllowPrelaunch -> 0
+2023-06-26  16:35:47,967 : Bearbeite Aktions-ID <_edge_startupboost>
+2023-06-26  16:35:47,967 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\StartupBoostEnabled -> 0
+2023-06-26  16:35:47,983 : Bearbeite Aktions-ID <_edge_tab_preloader>
+2023-06-26  16:35:47,983 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\TabPreloader\AllowTabPreloading -> 0
+2023-06-26  16:35:47,983 : Bearbeite Aktions-ID <_edge_hubssidebar>
+2023-06-26  16:35:47,983 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\HubsSidebarEnabled -> 0
+2023-06-26  16:35:47,983 : Bearbeite Aktions-ID <_edge_follow>
+2023-06-26  16:35:47,998 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\EdgeFollowEnabled -> 0
+2023-06-26  16:35:47,998 : Bearbeite Aktions-ID <_edge_follow_user>
+2023-06-26  16:35:47,998 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\EdgeFollowEnabled -> 0
+2023-06-26  16:35:47,998 : Bearbeite Aktions-ID <_suchvorschlaege>
+2023-06-26  16:35:47,998 : Registrierungsschlüssel wird gelöscht HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\SearchScopes -> ShowSearchSuggestionsGlobal
+2023-06-26  16:35:48,014 : Bearbeite Aktions-ID <_kennwoerter_speichern>
+2023-06-26  16:35:48,014 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Main\FormSuggest Passwords -> yes
+2023-06-26  16:35:48,014 : Bearbeite Aktions-ID <_cookies_drittanbieter>
+2023-06-26  16:35:48,014 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Main\Cookies -> 2
+2023-06-26  16:35:48,014 : Bearbeite Aktions-ID <_flashplayer>
+2023-06-26  16:35:48,014 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Addons\FlashPlayerEnabled -> 1
+2023-06-26  16:35:48,029 : Bearbeite Aktions-ID <_donottrack_ie>
+2023-06-26  16:35:48,029 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\DoNotTrack -> 1
+2023-06-26  16:35:48,029 : Bearbeite Aktions-ID <_phishingfilter_ie>
+2023-06-26  16:35:48,029 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\PhishingFilter\EnabledV9 -> 0
+2023-06-26  16:35:48,045 : Bearbeite Aktions-ID <_seitenvorhersage_ie>
+2023-06-26  16:35:48,045 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Suggested Sites\Enabled -> 0
+2023-06-26  16:35:48,045 : Bearbeite Aktions-ID <_vorschlaege_ie>
+2023-06-26  16:35:48,045 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\AllowServicePoweredQSA -> 0
+2023-06-26  16:35:48,061 : Bearbeite Aktions-ID <_kennwoerter_speichern_ie>
+2023-06-26  16:35:48,061 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\Use FormSuggest -> no
+2023-06-26  16:35:48,061 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FormSuggest PW Ask -> no
+2023-06-26  16:35:48,061 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IntelliForms\AskUser -> 0
+2023-06-26  16:35:48,061 : Bearbeite Aktions-ID <_autovervollstaendigen_ie>
+2023-06-26  16:35:48,061 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\ShowSearchSuggestionsInAddressGlobal -> 0
+2023-06-26  16:35:48,061 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\AutoComplete\Append Completion -> no
+2023-06-26  16:35:48,076 : Bearbeite Aktions-ID <_geolocation_ie>
+2023-06-26  16:35:48,076 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Geolocation\PolicyDisableGeolocation -> 1
+2023-06-26  16:35:48,076 : Bearbeite Aktions-ID <_updates_ie>
+2023-06-26  16:35:48,076 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Infodelivery\Restrictions\NoUpdateCheck -> 1
+2023-06-26  16:35:48,076 : Bearbeite Aktions-ID <_edge_symbol_in_ie_ausblenden>
+2023-06-26  16:35:48,076 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\HideNewEdgeButton -> 1
+2023-06-26  16:35:48,092 : Bearbeite Aktions-ID <_onedrivedeaktivieren>
+2023-06-26  16:35:48,092 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableLibrariesDefaultSaveToOneDrive -> 1
+2023-06-26  16:35:48,092 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableFileSync -> 1
+2023-06-26  16:35:48,092 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableMeteredNetworkFileSync -> 0
+2023-06-26  16:35:48,092 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableFileSyncNGSC -> 1
+2023-06-26  16:35:48,092 : Bearbeite Aktions-ID <_onedrive_for_business_deaktivieren>
+2023-06-26  16:35:48,092 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\OneDrive\DisablePersonalSync -> 1
+2023-06-26  16:35:48,108 : Bearbeite Aktions-ID <_notizdeaktivieren>
+2023-06-26  16:35:48,108 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\ActionCenter\Quick Actions\All\SystemSettings_Launcher_QuickNote\Type -> 0
+2023-06-26  16:35:48,108 : Aufgabe <CacheTask> wird nun deaktiviert!
+2023-06-26  16:35:48,201 : Bearbeite Aktions-ID <_wu_kein_automatischer_neustart>
+2023-06-26  16:35:48,201 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings\UxOption -> 1
+2023-06-26  16:35:48,201 : Bearbeite Aktions-ID <_wu_upgrades_verschieben>
+2023-06-26  16:35:48,201 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings\DeferUpgrade -> 1
+2023-06-26  16:35:48,201 : Bearbeite Aktions-ID <_wu_updates_nur_im_lan>
+2023-06-26  16:35:48,217 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\DeliveryOptimization\Config\DODownloadMode -> 1
+2023-06-26  16:35:48,217 : Bearbeite Aktions-ID <_energiesparen>
+2023-06-26  16:35:48,217 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\HiberbootEnabled -> 0
+2023-06-26  16:35:48,217 : Bearbeite Aktions-ID <_treiberinstallation>
+2023-06-26  16:35:48,217 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\Device Metadata\PreventDeviceMetadataFromNetwork -> 1
+2023-06-26  16:35:48,217 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching\SearchOrderConfig -> 0
+2023-06-26  16:35:48,233 : Bearbeite Aktions-ID <_superfetch>
+2023-06-26  16:35:48,233 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SysMain\Start -> 4
+2023-06-26  16:35:48,233 : Bearbeite Aktions-ID <_statusmeldungen>
+2023-06-26  16:35:48,233 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\VerboseStatus -> 1
+2023-06-26  16:35:48,248 : Bearbeite Aktions-ID <_shutdown_apps>
+2023-06-26  16:35:48,248 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\System\AllowBlockingAppsAtShutdown -> 0
+2023-06-26  16:35:48,248 : Bearbeite Aktions-ID <_defrag_boot_files>
+2023-06-26  16:35:48,248 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction\Enable -> N
+2023-06-26  16:35:48,264 : Bearbeite Aktions-ID <_bluescreen>
+2023-06-26  16:35:48,264 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\CrashControl\DisplayParameters -> 1
+2023-06-26  16:35:48,264 : Bearbeite Aktions-ID <_SmartNameResolution>
+2023-06-26  16:35:48,264 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows NT\DNSClient\DisableSmartNameResolution -> 1
+2023-06-26  16:35:48,279 : Bearbeite Aktions-ID <_windows_spotlight>
+2023-06-26  16:35:48,279 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent\DisableWindowsSpotlightFeatures -> 1
+2023-06-26  16:35:48,279 : Bearbeite Aktions-ID <_privacy_settings_experience_on_user_logon>
+2023-06-26  16:35:48,279 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\OOBE\DisablePrivacyExperience -> 1
+2023-06-26  16:35:48,279 : Bearbeite Aktions-ID <_defender_notifications_about_scans_without_detections>
+2023-06-26  16:35:48,279 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows Defender Security Center\Virus and threat protection\SummaryNotificationDisabled -> 1
+2023-06-26  16:35:48,295 : Bearbeite Aktions-ID <_nonewappalert>
+2023-06-26  16:35:48,295 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer\NoNewAppAlert -> 1
+2023-06-26  16:35:48,295 : Bearbeite Aktions-ID <_automatic_maintenance>
+2023-06-26  16:35:48,295 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Maintenance\MaintenanceDisabled -> 1
+2023-06-26  16:35:48,311 : Bearbeite Aktions-ID <_cloud_consumer_account>
+2023-06-26  16:35:48,311 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent\DisableConsumerAccountStateContent -> 1
+2023-06-26  16:35:48,311 : Bearbeite Aktions-ID <_cloud_optimized_content>
+2023-06-26  16:35:48,311 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent\DisableCloudOptimizedContent -> 1
+2023-06-26  16:35:48,311 : Bearbeite Aktions-ID <_back_benutzer_Sticky_Notes>
+2023-06-26  16:35:48,326 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,326 : Bearbeite Aktions-ID <_back_benutzer_Support_kontaktieren>
+2023-06-26  16:35:48,326 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,326 : Bearbeite Aktions-ID <_back_benutzer_Verbinden>
+2023-06-26  16:35:48,326 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,342 : Bearbeite Aktions-ID <_back_benutzer_WLAN_und_Mobilfunkguthaben>
+2023-06-26  16:35:48,342 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,342 : Bearbeite Aktions-ID <_back_benutzer_MSPaint>
+2023-06-26  16:35:48,342 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,358 : Bearbeite Aktions-ID <_back_benutzer_3DViewer>
+2023-06-26  16:35:48,358 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,358 : Bearbeite Aktions-ID <_back_benutzer_WindowsDefenderSecurityCenter>
+2023-06-26  16:35:48,358 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,358 : Bearbeite Aktions-ID <_back_benutzer_GetHelp>
+2023-06-26  16:35:48,358 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,373 : Bearbeite Aktions-ID <_back_benutzer_Print3D>
+2023-06-26  16:35:48,373 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,373 : Bearbeite Aktions-ID <_back_benutzer_YourPhone>
+2023-06-26  16:35:48,373 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,389 : Bearbeite Aktions-ID <_back_benutzer_ScreenSketch>
+2023-06-26  16:35:48,389 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,389 : Bearbeite Aktions-ID <_back_benutzer_XboxGamingOverlay>
+2023-06-26  16:35:48,389 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,389 : Bearbeite Aktions-ID <_back_benutzer_store>
+2023-06-26  16:35:48,389 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-06-26  16:35:48,404 : Benutzer-App entfernen <9E2F88E3.Twitter> (PackageName:)...
+2023-06-26  16:35:48,436 : Benutzer-App entfernen <king.com.CandyCrushSodaSaga> (PackageName:)...
+2023-06-26  16:35:48,451 : Benutzer-App entfernen <Microsoft.WindowsFeedbackHub> (PackageName:)...
+2023-06-26  16:35:48,483 : Benutzer-App entfernen <Microsoft.OneConnect> (PackageName:)...
+2023-06-26  16:35:48,514 : Benutzer-App entfernen <Microsoft.MSPaint> (PackageName:)...
+2023-06-26  16:35:48,545 : Benutzer-App entfernen <Microsoft.MicrosoftStickyNotes> (PackageName:)...
+2023-06-26  16:35:48,576 : Benutzer-App entfernen <Microsoft.Microsoft3DViewer> (PackageName:)...
+2023-06-26  16:35:48,592 : Benutzer-App entfernen <Microsoft.Wallet> (PackageName:)...
+2023-06-26  16:35:48,623 : Benutzer-App entfernen <Microsoft.DesktopAppInstaller> (PackageName:)...
+2023-06-26  16:35:48,654 : Benutzer-App entfernen <Microsoft.XboxIdentityProvider> (PackageName:)...
+2023-06-26  16:35:48,686 : Benutzer-App entfernen <Microsoft.XboxSpeechToTextOverlay> (PackageName:)...
+2023-06-26  16:35:48,717 : Benutzer-App entfernen <Microsoft.StorePurchaseApp> (PackageName:)...
+2023-06-26  16:35:48,748 : Benutzer-App entfernen <Microsoft.YourPhone> (PackageName:)...
+2023-06-26  16:35:48,764 : Benutzer-App entfernen <Microsoft.GetHelp> (PackageName:)...
+2023-06-26  16:35:48,795 : Benutzer-App entfernen <Microsoft.HEIFImageExtension> (PackageName:)...
+2023-06-26  16:35:48,826 : Benutzer-App entfernen <Microsoft.MixedReality.Portal> (PackageName:)...
+2023-06-26  16:35:48,858 : Benutzer-App entfernen <Microsoft.Print3D> (PackageName:)...
+2023-06-26  16:35:48,889 : Benutzer-App entfernen <Microsoft.ScreenSketch> (PackageName:)...
+2023-06-26  16:35:48,904 : Benutzer-App entfernen <Microsoft.VP9VideoExtensions> (PackageName:)...
+2023-06-26  16:35:48,936 : Benutzer-App entfernen <Microsoft.WebpImageExtension> (PackageName:)...
+2023-06-26  16:35:48,967 : Benutzer-App entfernen <Microsoft.WebMediaExtensions> (PackageName:)...
+2023-06-26  16:35:48,998 : Benutzer-App entfernen <Microsoft.XboxGamingOverlay> (PackageName:)...
+2023-06-26  16:35:49,029 : Benutzer-App entfernen <Microsoft.XboxGameOverlay> (PackageName:)...
+2023-06-26  16:35:49,045 : Benutzer-App entfernen <Microsoft.Xbox.TCUI> (PackageName:)...
+2023-06-26  16:35:49,076 : Benutzer-App entfernen <Microsoft.549981C3F5F10> (PackageName:)...
+2023-06-26  16:35:51,186 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-26  16:35:51,467 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-26  16:35:51,467 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-26  16:35:51,483 : Fehler beim Einlesen der Benutzer-Apps-Ausgabe zur Ermittlung der Benutzer-Apps.
+2023-06-26  16:35:51,514 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-26  16:35:51,514 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-26  16:35:51,592 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-26  16:36:08,061 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-26  16:36:08,139 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-26  16:36:39,750 : W10Privacy wird beendet.
+2023-06-26  16:36:43,867 : ________
+2023-06-26  16:36:43,867 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [2004] 
+2023-06-26  16:36:43,867 : W10Privacy wurde über den Benutzer <Administrator> gestartet.
+2023-06-26  16:36:43,867 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-06-26  16:36:43,945 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-26  16:36:44,226 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-26  16:36:44,242 : Ermittlung der System-Apps wird gestartet ...
+2023-06-26  16:36:45,648 : Ermittlung der System-Apps abgeschlossen.
+2023-06-26  16:36:45,648 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-26  16:36:45,679 : Fehler beim Einlesen der Benutzer-Apps-Ausgabe zur Ermittlung der Benutzer-Apps.
+2023-06-26  16:36:45,711 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-26  16:36:45,711 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-26  16:36:45,773 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-26  16:36:53,758 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-26  16:36:53,836 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-26  16:37:47,656 : Bearbeite Aktions-ID <_suchvorschlaege>
+2023-06-26  16:37:47,656 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\SearchScopes\ShowSearchSuggestionsGlobal -> 0
+2023-06-26  16:37:47,671 : Bearbeite Aktions-ID <_kennwoerter_speichern>
+2023-06-26  16:37:47,671 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Main\FormSuggest Passwords -> yes
+2023-06-26  16:37:47,671 : Bearbeite Aktions-ID <_cookies_drittanbieter>
+2023-06-26  16:37:47,671 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Main\Cookies -> 2
+2023-06-26  16:37:47,671 : Bearbeite Aktions-ID <_flashplayer>
+2023-06-26  16:37:47,687 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Addons\FlashPlayerEnabled -> 1
+2023-06-26  16:37:47,687 : System-App entfernen <Microsoft.MSPaint> (PackageName:)...
+2023-06-26  16:37:49,859 : Ermittlung der Aufgaben wird gestartet ...
+2023-06-26  16:37:50,140 : Ermittlung der Aufgaben abgeschlossen.
+2023-06-26  16:37:50,140 : Ermittlung der System-Apps wird gestartet ...
+2023-06-26  16:37:51,515 : Ermittlung der System-Apps abgeschlossen.
+2023-06-26  16:37:51,515 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-06-26  16:37:51,546 : Fehler beim Einlesen der Benutzer-Apps-Ausgabe zur Ermittlung der Benutzer-Apps.
+2023-06-26  16:37:51,562 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-06-26  16:37:51,562 : Ermittlung der Firewallregeln wird gestartet ...
+2023-06-26  16:37:51,640 : Ermittlung der Firewallregeln abgeschlossen.
+2023-06-26  16:38:08,531 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-06-26  16:38:08,624 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-06-26  16:38:23,110 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,157 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,188 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,235 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,282 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,298 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,329 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,360 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:23,376 : W10Privacy.exe ist bereits auf dem System gestartet, diese Instanz wird nun beendet.
+2023-06-26  16:38:50,407 : W10Privacy wird beendet.
+2023-07-16  11:55:13,310 : ________
+2023-07-16  11:55:13,322 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [19045] 
+2023-07-16  11:55:13,325 : W10Privacy wurde über den Benutzer <SYSTEM> gestartet.
+2023-07-16  11:55:13,327 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-07-16  11:55:13,436 : Ermittlung der Aufgaben wird gestartet ...
+2023-07-16  11:55:13,468 : Fehler bei der Ermittlung der aktiven Aufgaben des Systems.
+2023-07-16  11:55:13,497 : Ermittlung der Aufgaben abgeschlossen.
+2023-07-16  11:55:13,501 : Ermittlung der System-Apps wird gestartet ...
+2023-07-16  11:55:14,873 : Ermittlung der System-Apps abgeschlossen.
+2023-07-16  11:55:14,876 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-07-16  11:55:17,481 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-07-16  11:55:17,484 : Ermittlung der Firewallregeln wird gestartet ...
+2023-08-21  19:35:51,349 : ________
+2023-08-21  19:35:51,359 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [19045] 
+2023-08-21  19:35:51,363 : W10Privacy wurde über den Benutzer <SYSTEM> gestartet.
+2023-08-21  19:35:51,365 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-08-21  19:35:51,471 : Ermittlung der Aufgaben wird gestartet ...
+2023-08-21  19:35:51,523 : Fehler bei der Ermittlung der aktiven Aufgaben des Systems.
+2023-08-21  19:35:51,552 : Ermittlung der Aufgaben abgeschlossen.
+2023-08-21  19:35:51,554 : Ermittlung der System-Apps wird gestartet ...
+2023-08-21  19:35:52,906 : Ermittlung der System-Apps abgeschlossen.
+2023-08-21  19:35:52,908 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-08-21  19:35:55,856 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-08-21  19:35:55,858 : Ermittlung der Firewallregeln wird gestartet ...
+2023-08-31  20:41:48,249 : ________
+2023-08-31  20:41:48,249 : W10Privacy wird gestartet. v.4.1.2.3 im GUI-Modus - WIN_10 [19045] 
+2023-08-31  20:41:48,265 : W10Privacy wurde über den Benutzer <Administrator> gestartet.
+2023-08-31  20:41:48,265 : Administrator-Kontext erkannt, es können auch systemspezifische Einstellungen angepasst werden.
+2023-08-31  20:41:48,437 : Ermittlung der Aufgaben wird gestartet ...
+2023-08-31  20:41:48,968 : Ermittlung der Aufgaben abgeschlossen.
+2023-08-31  20:41:48,984 : Ermittlung der System-Apps wird gestartet ...
+2023-08-31  20:41:50,812 : Ermittlung der System-Apps abgeschlossen.
+2023-08-31  20:41:50,812 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-08-31  20:41:50,859 : Fehler beim Einlesen der Benutzer-Apps-Ausgabe zur Ermittlung der Benutzer-Apps.
+2023-08-31  20:41:50,890 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-08-31  20:41:50,906 : Ermittlung der Firewallregeln wird gestartet ...
+2023-08-31  20:41:51,796 : Ermittlung der Firewallregeln abgeschlossen.
+2023-08-31  20:42:00,906 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-08-31  20:42:01,235 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-08-31  20:46:19,054 : Bearbeite Aktions-ID <_anwendungstelemetrie>
+2023-08-31  20:46:19,070 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat\AITEnable -> 0
+2023-08-31  20:46:19,070 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat\AllowTelemetry -> 0
+2023-08-31  20:46:19,070 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection\AllowTelemetry -> 0
+2023-08-31  20:46:19,085 : Bearbeite Aktions-ID <_positionserkennung_benutzer>
+2023-08-31  20:46:19,101 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{BFA794E4-F964-4FDB-90F6-51056BFE4B44}\Value -> Deny
+2023-08-31  20:46:19,101 : Bearbeite Aktions-ID <_spracherkennung>
+2023-08-31  20:46:19,117 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Personalization\Settings\AcceptedPrivacyPolicy -> 0
+2023-08-31  20:46:19,117 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\InputPersonalization\RestrictImplicitTextCollection -> 1
+2023-08-31  20:46:19,132 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Personalization\Settings\RestrictImplicitInkCollection -> 1
+2023-08-31  20:46:19,132 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\InputPersonalization\TrainedDataStore\HarvestContacts -> 0
+2023-08-31  20:46:19,148 : Bearbeite Aktions-ID <_diagnose>
+2023-08-31  20:46:19,148 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry -> 0
+2023-08-31  20:46:19,163 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack\DiagTrackAuthorization -> 7
+2023-08-31  20:46:19,163 : Bearbeite Aktions-ID <_autologger>
+2023-08-31  20:46:19,179 : Registrierungsschlüssel wird gesetzt HKLM\SYSTEM\ControlSet001\Control\WMI\AutoLogger\AutoLogger-Diagtrack-Listener\Start -> 0
+2023-08-31  20:46:19,179 : Registrierungsschlüssel wird gesetzt HKLM\SYSTEM\CurrentControlSet\Control\WMI\AutoLogger\AutoLogger-Diagtrack-Listener\Start -> 0
+2023-08-31  20:46:19,195 : Bearbeite Aktions-ID <_memory_dumps>
+2023-08-31  20:46:19,195 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\AutoApproveOSDumps -> 0
+2023-08-31  20:46:19,210 : Bearbeite Aktions-ID <_wer_additional_data>
+2023-08-31  20:46:19,210 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows Error Reporting\DontSendAdditionalData -> 1
+2023-08-31  20:46:19,226 : Bearbeite Aktions-ID <_notification_on_diagnostic_data_level>
+2023-08-31  20:46:19,226 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection\DisableTelemetryOptInChangeNotification -> 1
+2023-08-31  20:46:19,242 : Bearbeite Aktions-ID <_app_installation>
+2023-08-31  20:46:19,257 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SilentInstalledAppsEnabled -> 0
+2023-08-31  20:46:19,257 : Bearbeite Aktions-ID <_app_push_install>
+2023-08-31  20:46:19,273 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PushToInstall\DisablePushToInstall -> 1
+2023-08-31  20:46:19,288 : Bearbeite Aktions-ID <_Apps_andere_Geraete>
+2023-08-31  20:46:19,288 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\SmartGlass\UserAuthPolicy -> 0
+2023-08-31  20:46:19,304 : Bearbeite Aktions-ID <_Apps_andere_Geraete_Bluetooth>
+2023-08-31  20:46:19,304 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\SmartGlass\BluetoothPolicy -> 0
+2023-08-31  20:46:19,320 : Bearbeite Aktions-ID <_diagnosedaten_apps>
+2023-08-31  20:46:19,320 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{2297E4E2-5DBE-466D-A12B-0F8286F0D9CA}\Value -> Deny
+2023-08-31  20:46:19,335 : Bearbeite Aktions-ID <_wlan_hotspot>
+2023-08-31  20:46:19,351 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-4133820298-63302705-1109285983-500\FeatureStates -> 892
+2023-08-31  20:46:19,351 : Bearbeite Aktions-ID <_wlan_kontakte>
+2023-08-31  20:46:19,367 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-4133820298-63302705-1109285983-500\FeatureStates -> 829
+2023-08-31  20:46:19,367 : Bearbeite Aktions-ID <_wlan_kostenpflichtig>
+2023-08-31  20:46:19,382 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-4133820298-63302705-1109285983-500\FeatureStates -> 381
+2023-08-31  20:46:19,382 : Bearbeite Aktions-ID <_wlan_outlook>
+2023-08-31  20:46:19,398 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-4133820298-63302705-1109285983-500\SocialNetworks\ABCH\OptInStatus -> 0
+2023-08-31  20:46:19,414 : Bearbeite Aktions-ID <_wlan_skype>
+2023-08-31  20:46:19,414 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-4133820298-63302705-1109285983-500\SocialNetworks\ABCH-SKYPE\OptInStatus -> 0
+2023-08-31  20:46:19,429 : Bearbeite Aktions-ID <_wlan_facebook>
+2023-08-31  20:46:19,429 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WcmSvc\wifinetworkmanager\features\S-1-5-21-4133820298-63302705-1109285983-500\SocialNetworks\FACEBOOK\OptInStatus -> 0
+2023-08-31  20:46:19,445 : Bearbeite Aktions-ID <_vertikaler_iconabstand>
+2023-08-31  20:46:19,445 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\IconVerticalSpacing -> -1150
+2023-08-31  20:46:19,460 : Bearbeite Aktions-ID <_thumbnail_cache_bilder>
+2023-08-31  20:46:19,460 : Registrierungsschlüssel wird gesetzt HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoThumbnailCache -> 1
+2023-08-31  20:46:19,476 : Registrierungsschlüssel wird gesetzt HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisableThumbnailCache -> 1
+2023-08-31  20:46:19,476 : Registrierungsschlüssel wird gesetzt HKLM\Software\Policies\Microsoft\Windows\Explorer\DisableThumbsDBOnNetworkFolders -> 1
+2023-08-31  20:46:19,492 : Bearbeite Aktions-ID <_thumbnail_cache_bilder2>
+2023-08-31  20:46:19,492 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\NoThumbnailCache -> 1
+2023-08-31  20:46:19,507 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\DisableThumbnailCache -> 1
+2023-08-31  20:46:19,523 : Bearbeite Aktions-ID <_infos_gestartete_programme_dateien>
+2023-08-31  20:46:19,523 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoInstrumentation -> 1
+2023-08-31  20:46:19,539 : Bearbeite Aktions-ID <_explorer_feeds_taskbar_user>
+2023-08-31  20:46:19,539 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Feeds\ShellFeedsTaskbarViewMode -> 2
+2023-08-31  20:46:19,554 : Bearbeite Aktions-ID <_explorer_autosuggest>
+2023-08-31  20:46:19,554 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\AutoComplete\AutoSuggest -> no
+2023-08-31  20:46:19,570 : Bearbeite Aktions-ID <_defender>
+2023-08-31  20:46:19,570 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\DisableAntiSpyware -> 1
+2023-08-31  20:46:19,585 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableBehaviorMonitoring -> 1
+2023-08-31  20:46:19,585 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableOnAccessProtection -> 1
+2023-08-31  20:46:19,601 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableScanOnRealtimeEnable -> 1
+2023-08-31  20:46:19,601 : Bearbeite Aktions-ID <_edgeupdate>
+2023-08-31  20:46:19,617 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdate\Start -> 4
+2023-08-31  20:46:19,617 : Bearbeite Aktions-ID <_edgeupdatem>
+2023-08-31  20:46:19,632 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\edgeupdatem\Start -> 4
+2023-08-31  20:46:19,648 : Bearbeite Aktions-ID <_retaildemo>
+2023-08-31  20:46:19,648 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\retaildemo\Start -> 4
+2023-08-31  20:46:19,664 : Bearbeite Aktions-ID <_edge_donotupdate>
+2023-08-31  20:46:19,664 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\EdgeUpdate\DoNotUpdateToEdgeWithChromium -> 1
+2023-08-31  20:46:19,679 : Bearbeite Aktions-ID <_edge_donottrack>
+2023-08-31  20:46:19,679 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\ConfigureDoNotTrack -> 1
+2023-08-31  20:46:19,695 : Bearbeite Aktions-ID <_edge_donottrack_user>
+2023-08-31  20:46:19,695 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\ConfigureDoNotTrack -> 1
+2023-08-31  20:46:19,710 : Bearbeite Aktions-ID <_edge_smartscreen>
+2023-08-31  20:46:19,726 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SmartScreenEnabled -> 0
+2023-08-31  20:46:19,726 : Bearbeite Aktions-ID <_edge_smartscreen_user>
+2023-08-31  20:46:19,742 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SmartScreenEnabled -> 0
+2023-08-31  20:46:19,742 : Bearbeite Aktions-ID <_edge_networkprediction>
+2023-08-31  20:46:19,757 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\NetworkPredictionOptions -> 2
+2023-08-31  20:46:19,757 : Bearbeite Aktions-ID <_edge_networkprediction_user>
+2023-08-31  20:46:19,773 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\NetworkPredictionOptions -> 2
+2023-08-31  20:46:19,789 : Bearbeite Aktions-ID <_edge_searchsuggest>
+2023-08-31  20:46:19,789 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SearchSuggestEnabled -> 0
+2023-08-31  20:46:19,804 : Bearbeite Aktions-ID <_edge_searchsuggest_user>
+2023-08-31  20:46:19,804 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SearchSuggestEnabled -> 0
+2023-08-31  20:46:19,820 : Bearbeite Aktions-ID <_edge_autofilladdress>
+2023-08-31  20:46:19,820 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AutofillAddressEnabled -> 0
+2023-08-31  20:46:19,835 : Bearbeite Aktions-ID <_edge_autofilladdress_user>
+2023-08-31  20:46:19,835 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AutofillAddressEnabled -> 0
+2023-08-31  20:46:19,851 : Bearbeite Aktions-ID <_edge_resolvenavigationerrors>
+2023-08-31  20:46:19,851 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\ResolveNavigationErrorsUseWebService -> 0
+2023-08-31  20:46:19,867 : Bearbeite Aktions-ID <_edge_resolvenavigationerrors_user>
+2023-08-31  20:46:19,867 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\ResolveNavigationErrorsUseWebService -> 0
+2023-08-31  20:46:19,882 : Bearbeite Aktions-ID <_edge_alternateerrorpages>
+2023-08-31  20:46:19,898 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AlternateErrorPagesEnabled -> 0
+2023-08-31  20:46:19,898 : Bearbeite Aktions-ID <_edge_alternateerrorpages_user>
+2023-08-31  20:46:19,914 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AlternateErrorPagesEnabled -> 0
+2023-08-31  20:46:19,914 : Bearbeite Aktions-ID <_edge_sendsiteinfo>
+2023-08-31  20:46:19,929 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SendSiteInfoToImproveServices -> 0
+2023-08-31  20:46:19,929 : Bearbeite Aktions-ID <_edge_sendsiteinfo_user>
+2023-08-31  20:46:19,945 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SendSiteInfoToImproveServices -> 0
+2023-08-31  20:46:19,945 : Bearbeite Aktions-ID <_edge_personalizationreporting_user>
+2023-08-31  20:46:19,960 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\PersonalizationReportingEnabled -> 0
+2023-08-31  20:46:19,976 : Bearbeite Aktions-ID <_edge_metricsreporting>
+2023-08-31  20:46:19,976 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\MetricsReportingEnabled -> 0
+2023-08-31  20:46:19,992 : Bearbeite Aktions-ID <_edge_metricsreporting_user>
+2023-08-31  20:46:19,992 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\MetricsReportingEnabled -> 0
+2023-08-31  20:46:20,007 : Bearbeite Aktions-ID <_edge_paymentmethodquery>
+2023-08-31  20:46:20,007 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\PaymentMethodQueryEnabled -> 0
+2023-08-31  20:46:20,023 : Bearbeite Aktions-ID <_edge_paymentmethodquery_user>
+2023-08-31  20:46:20,023 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\PaymentMethodQueryEnabled -> 0
+2023-08-31  20:46:20,039 : Bearbeite Aktions-ID <_edge_autofillcreditcard_user>
+2023-08-31  20:46:20,039 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AutofillCreditCardEnabled -> 0
+2023-08-31  20:46:20,054 : Bearbeite Aktions-ID <_edge_addressbarsearch>
+2023-08-31  20:46:20,054 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\AddressBarMicrosoftSearchInBingProviderEnabled -> 0
+2023-08-31  20:46:20,070 : Bearbeite Aktions-ID <_edge_addressbarsearch_user>
+2023-08-31  20:46:20,070 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\AddressBarMicrosoftSearchInBingProviderEnabled -> 0
+2023-08-31  20:46:20,085 : Bearbeite Aktions-ID <_edge_userfeedback_user>
+2023-08-31  20:46:20,085 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\UserFeedbackAllowed -> 0
+2023-08-31  20:46:20,101 : Bearbeite Aktions-ID <_edge_blockthirdpartycookies>
+2023-08-31  20:46:20,117 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\BlockThirdPartyCookies -> 1
+2023-08-31  20:46:20,117 : Bearbeite Aktions-ID <_edge_blockthirdpartycookies_user>
+2023-08-31  20:46:20,132 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\BlockThirdPartyCookies -> 1
+2023-08-31  20:46:20,132 : Bearbeite Aktions-ID <_edge_trackingprevention>
+2023-08-31  20:46:20,148 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\TrackingPrevention -> 3
+2023-08-31  20:46:20,148 : Bearbeite Aktions-ID <_edge_trackingprevention_user>
+2023-08-31  20:46:20,164 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\TrackingPrevention -> 3
+2023-08-31  20:46:20,179 : Bearbeite Aktions-ID <_edge_sync>
+2023-08-31  20:46:20,179 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\SyncDisabled -> 0
+2023-08-31  20:46:20,195 : Bearbeite Aktions-ID <_edge_sync_user>
+2023-08-31  20:46:20,195 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\SyncDisabled -> 0
+2023-08-31  20:46:20,210 : Bearbeite Aktions-ID <_edge_defaultgeolocationsetting>
+2023-08-31  20:46:20,210 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\DefaultGeolocationSetting -> 3
+2023-08-31  20:46:20,226 : Bearbeite Aktions-ID <_edge_defaultgeolocationsetting_user>
+2023-08-31  20:46:20,226 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\DefaultGeolocationSetting -> 3
+2023-08-31  20:46:20,242 : Bearbeite Aktions-ID <_edge_shoppingassistant_user>
+2023-08-31  20:46:20,242 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\EdgeShoppingAssistantEnabled -> 0
+2023-08-31  20:46:20,257 : Bearbeite Aktions-ID <_edge_localproviders>
+2023-08-31  20:46:20,273 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\LocalProvidersEnabled -> 0
+2023-08-31  20:46:20,273 : Bearbeite Aktions-ID <_edge_localproviders_user>
+2023-08-31  20:46:20,289 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\LocalProvidersEnabled -> 0
+2023-08-31  20:46:20,289 : Bearbeite Aktions-ID <_edge_startupboost>
+2023-08-31  20:46:20,304 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Edge\StartupBoostEnabled -> 0
+2023-08-31  20:46:20,320 : Bearbeite Aktions-ID <_edge_follow_user>
+2023-08-31  20:46:20,320 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge\EdgeFollowEnabled -> 0
+2023-08-31  20:46:20,335 : Bearbeite Aktions-ID <_donottrack_ie>
+2023-08-31  20:46:20,335 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\DoNotTrack -> 1
+2023-08-31  20:46:20,351 : Bearbeite Aktions-ID <_kennwoerter_speichern_ie>
+2023-08-31  20:46:20,351 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\Use FormSuggest -> no
+2023-08-31  20:46:20,351 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FormSuggest PW Ask -> no
+2023-08-31  20:46:20,367 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IntelliForms\AskUser -> 0
+2023-08-31  20:46:20,382 : Bearbeite Aktions-ID <_autovervollstaendigen_ie>
+2023-08-31  20:46:20,382 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\ShowSearchSuggestionsInAddressGlobal -> 0
+2023-08-31  20:46:20,382 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\AutoComplete\Append Completion -> no
+2023-08-31  20:46:20,398 : Bearbeite Aktions-ID <_updates_ie>
+2023-08-31  20:46:20,398 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Infodelivery\Restrictions\NoUpdateCheck -> 1
+2023-08-31  20:46:20,414 : Bearbeite Aktions-ID <_edge_symbol_in_ie_ausblenden>
+2023-08-31  20:46:20,414 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\HideNewEdgeButton -> 1
+2023-08-31  20:46:20,429 : Bearbeite Aktions-ID <_onedrivedeaktivieren>
+2023-08-31  20:46:20,445 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableLibrariesDefaultSaveToOneDrive -> 1
+2023-08-31  20:46:20,445 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableFileSync -> 1
+2023-08-31  20:46:20,445 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableMeteredNetworkFileSync -> 0
+2023-08-31  20:46:20,460 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\Onedrive\DisableFileSyncNGSC -> 1
+2023-08-31  20:46:20,476 : Bearbeite Aktions-ID <_onedrive_for_business_deaktivieren>
+2023-08-31  20:46:20,476 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\Software\Microsoft\OneDrive\DisablePersonalSync -> 1
+2023-08-31  20:46:20,492 : Bearbeite Aktions-ID <_notizdeaktivieren>
+2023-08-31  20:46:20,492 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\ActionCenter\Quick Actions\All\SystemSettings_Launcher_QuickNote\Type -> 0
+2023-08-31  20:46:20,507 : Aufgabe <Windows Defender Cache Maintenance> wird nun deaktiviert!
+2023-08-31  20:46:20,632 : Aufgabe <Windows Defender Cleanup> wird nun deaktiviert!
+2023-08-31  20:46:20,742 : Aufgabe <Windows Defender Scheduled Scan> wird nun deaktiviert!
+2023-08-31  20:46:20,851 : Aufgabe <Windows Defender Verification> wird nun deaktiviert!
+2023-08-31  20:46:20,961 : Aufgabe <CacheTask> wird nun deaktiviert!
+2023-08-31  20:46:21,086 : Aufgabe <MicrosoftEdgeUpdateTaskMachineCore{EA273A55-100E-43E8-8AD8-E9C6860221C4}> wird nun deaktiviert!
+2023-08-31  20:46:21,195 : Aufgabe <MicrosoftEdgeUpdateTaskMachineUA{F50E7783-AE49-4F5C-8FB9-D5BA34AD2B99}> wird nun deaktiviert!
+2023-08-31  20:46:21,304 : Bearbeite Aktions-ID <_wu_updates_deaktivieren>
+2023-08-31  20:46:21,304 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU\NoAutoUpdate -> 0
+2023-08-31  20:46:21,320 : Bearbeite Aktions-ID <_wu_kein_automatischer_neustart>
+2023-08-31  20:46:21,320 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings\UxOption -> 1
+2023-08-31  20:46:21,336 : Bearbeite Aktions-ID <_wu_upgrades_verschieben>
+2023-08-31  20:46:21,336 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings\DeferUpgrade -> 1
+2023-08-31  20:46:21,351 : Bearbeite Aktions-ID <_wu_updates_nur_im_lan>
+2023-08-31  20:46:21,351 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\DeliveryOptimization\Config\DODownloadMode -> 1
+2023-08-31  20:46:21,367 : Bearbeite Aktions-ID <_energiesparen>
+2023-08-31  20:46:21,382 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\HiberbootEnabled -> 0
+2023-08-31  20:46:21,382 : Bearbeite Aktions-ID <_treiberinstallation>
+2023-08-31  20:46:21,398 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\Device Metadata\PreventDeviceMetadataFromNetwork -> 1
+2023-08-31  20:46:21,398 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching\SearchOrderConfig -> 0
+2023-08-31  20:46:21,414 : Bearbeite Aktions-ID <_superfetch>
+2023-08-31  20:46:21,414 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SysMain\Start -> 4
+2023-08-31  20:46:21,429 : Bearbeite Aktions-ID <_statusmeldungen>
+2023-08-31  20:46:21,429 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\VerboseStatus -> 1
+2023-08-31  20:46:21,445 : Bearbeite Aktions-ID <_shutdown_apps>
+2023-08-31  20:46:21,445 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Policies\Microsoft\Windows\System\AllowBlockingAppsAtShutdown -> 0
+2023-08-31  20:46:21,461 : Bearbeite Aktions-ID <_bluescreen>
+2023-08-31  20:46:21,476 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\CrashControl\DisplayParameters -> 1
+2023-08-31  20:46:21,492 : Bearbeite Aktions-ID <_Enable_Dark_Theme>
+2023-08-31  20:46:21,492 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize\AppsUseLightTheme -> 0
+2023-08-31  20:46:21,747 : Bearbeite Aktions-ID <_privacy_settings_experience_on_user_logon>
+2023-08-31  20:46:21,747 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\OOBE\DisablePrivacyExperience -> 1
+2023-08-31  20:46:21,762 : Bearbeite Aktions-ID <_defender_notifications_about_scans_without_detections>
+2023-08-31  20:46:21,762 : Registrierungsschlüssel wird gesetzt HKLM64\SOFTWARE\Microsoft\Windows Defender Security Center\Virus and threat protection\SummaryNotificationDisabled -> 1
+2023-08-31  20:46:21,778 : Bearbeite Aktions-ID <_nonewappalert>
+2023-08-31  20:46:21,794 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer\NoNewAppAlert -> 1
+2023-08-31  20:46:21,809 : Bearbeite Aktions-ID <_automatic_maintenance>
+2023-08-31  20:46:21,809 : Registrierungsschlüssel wird gesetzt HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Maintenance\MaintenanceDisabled -> 1
+2023-08-31  20:46:21,825 : Bearbeite Aktions-ID <_cloud_consumer_account>
+2023-08-31  20:46:21,825 : Registrierungsschlüssel wird gesetzt HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent\DisableConsumerAccountStateContent -> 1
+2023-08-31  20:46:21,840 : Firewallregel <AccountsControl> wird hinzugefügt.
+2023-08-31  20:46:21,919 : Firewallregel <Edge_2_2> wird hinzugefügt.
+2023-08-31  20:46:21,997 : Firewallregel <BackgroundTaskHost> wird hinzugefügt.
+2023-08-31  20:46:22,075 : Firewallregel <DownloadUploadHost> wird hinzugefügt.
+2023-08-31  20:46:22,528 : Firewallregel <HostProcessWindowsTasks> wird hinzugefügt.
+2023-08-31  20:46:22,606 : Firewallregel <MalwareProtectionCommandLineUtility> wird hinzugefügt.
+2023-08-31  20:46:22,684 : Firewallregel <WindowsToolUninstallMaliciousSoftware> wird hinzugefügt.
+2023-08-31  20:46:22,778 : Firewallregel <Aktivierungsclient> wird hinzugefügt.
+2023-08-31  20:46:22,856 : Firewallregel <DeviceAssociationFrameworkProviderHost> wird hinzugefügt.
+2023-08-31  20:46:22,934 : Firewallregel <Device Census> wird hinzugefügt.
+2023-08-31  20:46:23,012 : Bearbeite Aktions-ID <_back_benutzer_Sticky_Notes>
+2023-08-31  20:46:23,028 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,028 : Bearbeite Aktions-ID <_back_benutzer_Support_kontaktieren>
+2023-08-31  20:46:23,044 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,059 : Bearbeite Aktions-ID <_back_benutzer_Verbinden>
+2023-08-31  20:46:23,059 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,075 : Bearbeite Aktions-ID <_back_benutzer_WLAN_und_Mobilfunkguthaben>
+2023-08-31  20:46:23,075 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,090 : Bearbeite Aktions-ID <_back_benutzer_MSPaint>
+2023-08-31  20:46:23,090 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,106 : Bearbeite Aktions-ID <_back_benutzer_3DViewer>
+2023-08-31  20:46:23,106 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,122 : Bearbeite Aktions-ID <_back_benutzer_WindowsDefenderSecurityCenter>
+2023-08-31  20:46:23,137 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,137 : Bearbeite Aktions-ID <_back_benutzer_Print3D>
+2023-08-31  20:46:23,153 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,153 : Bearbeite Aktions-ID <_back_benutzer_YourPhone>
+2023-08-31  20:46:23,169 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,184 : Bearbeite Aktions-ID <_back_benutzer_ScreenSketch>
+2023-08-31  20:46:23,184 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,200 : Bearbeite Aktions-ID <_back_benutzer_XboxGamingOverlay>
+2023-08-31  20:46:23,200 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,215 : Bearbeite Aktions-ID <_back_benutzer_store>
+2023-08-31  20:46:23,231 : Registrierungsschlüssel wird gesetzt HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications\\DisabledByUser -> 1
+2023-08-31  20:46:23,231 : Benutzer-App entfernen <9E2F88E3.Twitter> (PackageName:)...
+2023-08-31  20:46:23,278 : Benutzer-App entfernen <king.com.CandyCrushSodaSaga> (PackageName:)...
+2023-08-31  20:46:23,325 : Benutzer-App entfernen <Microsoft.WindowsFeedbackHub> (PackageName:)...
+2023-08-31  20:46:23,356 : Benutzer-App entfernen <Microsoft.OneConnect> (PackageName:)...
+2023-08-31  20:46:23,403 : Benutzer-App entfernen <Microsoft.MSPaint> (PackageName:)...
+2023-08-31  20:46:23,434 : Benutzer-App entfernen <Microsoft.MicrosoftStickyNotes> (PackageName:)...
+2023-08-31  20:46:23,481 : Benutzer-App entfernen <Microsoft.Microsoft3DViewer> (PackageName:)...
+2023-08-31  20:46:23,528 : Benutzer-App entfernen <Microsoft.Wallet> (PackageName:)...
+2023-08-31  20:46:23,559 : Benutzer-App entfernen <Microsoft.DesktopAppInstaller> (PackageName:)...
+2023-08-31  20:46:23,606 : Benutzer-App entfernen <Microsoft.XboxIdentityProvider> (PackageName:)...
+2023-08-31  20:46:23,653 : Benutzer-App entfernen <Microsoft.XboxSpeechToTextOverlay> (PackageName:)...
+2023-08-31  20:46:23,684 : Benutzer-App entfernen <Microsoft.StorePurchaseApp> (PackageName:)...
+2023-08-31  20:46:23,731 : Benutzer-App entfernen <Microsoft.YourPhone> (PackageName:)...
+2023-08-31  20:46:23,778 : Benutzer-App entfernen <Microsoft.GetHelp> (PackageName:)...
+2023-08-31  20:46:23,809 : Benutzer-App entfernen <Microsoft.HEIFImageExtension> (PackageName:)...
+2023-08-31  20:46:23,856 : Benutzer-App entfernen <Microsoft.MixedReality.Portal> (PackageName:)...
+2023-08-31  20:46:23,903 : Benutzer-App entfernen <Microsoft.Print3D> (PackageName:)...
+2023-08-31  20:46:23,934 : Benutzer-App entfernen <Microsoft.ScreenSketch> (PackageName:)...
+2023-08-31  20:46:23,981 : Benutzer-App entfernen <Microsoft.VP9VideoExtensions> (PackageName:)...
+2023-08-31  20:46:24,012 : Benutzer-App entfernen <Microsoft.WebpImageExtension> (PackageName:)...
+2023-08-31  20:46:24,059 : Benutzer-App entfernen <Microsoft.WebMediaExtensions> (PackageName:)...
+2023-08-31  20:46:24,106 : Benutzer-App entfernen <Microsoft.XboxGamingOverlay> (PackageName:)...
+2023-08-31  20:46:24,137 : Benutzer-App entfernen <Microsoft.XboxGameOverlay> (PackageName:)...
+2023-08-31  20:46:24,184 : Benutzer-App entfernen <Microsoft.Xbox.TCUI> (PackageName:)...
+2023-08-31  20:46:24,216 : Benutzer-App entfernen <Microsoft.549981C3F5F10> (PackageName:)...
+2023-08-31  20:46:26,325 : Ermittlung der Aufgaben wird gestartet ...
+2023-08-31  20:46:26,794 : Ermittlung der Aufgaben abgeschlossen.
+2023-08-31  20:46:26,794 : Ermittlung der System-Apps wird gestartet ...
+2023-08-31  20:46:28,122 : Ermittlung der System-Apps abgeschlossen.
+2023-08-31  20:46:28,138 : Ermittlung der Benutzer-Apps wird gestartet ...
+2023-08-31  20:46:28,169 : Fehler beim Einlesen der Benutzer-Apps-Ausgabe zur Ermittlung der Benutzer-Apps.
+2023-08-31  20:46:28,216 : Ermittlung der Benutzer-Apps abgeschlossen.
+2023-08-31  20:46:28,216 : Ermittlung der Firewallregeln wird gestartet ...
+2023-08-31  20:46:28,419 : Ermittlung der Firewallregeln abgeschlossen.
+2023-08-31  20:46:46,093 : Ermittlung der Namen der System-Apps für die Firewallregeln wird gestartet ...
+2023-08-31  20:46:46,515 : Ermittlung der Namen der System-Apps für die Firewallregeln abgeschlossen.
+2023-08-31  20:46:53,991 : W10Privacy wird beendet.
