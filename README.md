@@ -13,6 +13,8 @@ If anyone has a clean windows 22H2 image, I would like to see it for my work and
 
 Netprofm and Netman service can be turned back on though there is not much in there but displays the network connection and advanced adapter properties doesn't show anything, so you must install your lan card and hold down windows key + R, and type ncpa.cpl in the run prompt where you can remove everything except microsoft network and tcpip4. In the properties of tcpip4 and I can't regedit script this for you, you will find an advanced options button on the first tab shown for the advanced settings tcpip4. disable netbios and WINS to finish closing all of your network ports, enabling True Gaming Mode. Windows control panel type shortcuts are in the SHORT folder or you can google rundll 32 shortcut list and make them yourself. Most often breaks the taskbar from showing what apps are open but you can still alt tab. Sometimes it comes back.
 
+DPC latency tweaks are necessary which are outlined in .png files in the folder. I learned this from https://www.youtube.com/watch?v=x0BN608Sd3Q
+
 Set all your file assoications and install all your drivers and do all your modern ui windows settings before doing this as well as any changers to ncpa.cpl.
 
 2.0 http://i.imgur.com/yEARsTt.png
