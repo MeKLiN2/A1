@@ -1,0 +1,25 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\System\ControlSet001\Services\MsSecCore]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\System\ControlSet001\Services\pdc]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\System\ControlSet001\Services\PEAUTH]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\System\ControlSet001\Services\rhproxy]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\SAM\SAM\Domains\Builtin\Aliases\Members\S-1-5-18]
+@=hex:
+
+[HKEY_LOCAL_MACHINE\SAM\SAM\Domains\Builtin\Aliases\Members\S-1-5-18\000001F4]
+@="Ƞ"
+
+[HKEY_LOCAL_MACHINE\SAM\SAM\Domains\Builtin\Aliases\Members\S-1-5-18\000001F5]
+@="Ȣ"
+
+[HKEY_LOCAL_MACHINE\SAM\SAM\Domains\Builtin\Aliases\Members\S-1-5-18\000001F7]
+@="Ʌ"
