@@ -1,0 +1,32 @@
+
+reg add hklm\system\controlset001\services\SensorDataService /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\IpxlatCfgSvc /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\ItSas35i /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\SerCx /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\SerCx2 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\WEPHOSTSVC /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\SiSRaid2 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\SiSRaid4 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\SmartSAMD /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\IndirectKmd /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\spaceparser /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\icssvc /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSSi_I2C /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\spectrum /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSS2i_I2C_BXT_P /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSS2i_I2C_CNL v2 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSS2i_I2C_GLK /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSS2i_GPIO2_CNL /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSS2i_GPIO2_BXT_P /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iaLPSS2i_GPIO2 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\iai2c /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\BTHPORT /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\HwNClx0101 /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\HpSAMD /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\hidinterrupt /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\storufs /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\stornvme /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\hidi2c /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\AarSvc /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\terminpt /v "Start" /t REG_DWORD /d 4 /f
+reg add hklm\system\controlset001\services\GraphicsPerfSvc /v "Start" /t REG_DWORD /d 4 /f
