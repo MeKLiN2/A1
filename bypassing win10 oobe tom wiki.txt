@@ -1,0 +1,58 @@
+https://wiki.tomdobes.com/computer/bypassing_win10_oobe
+
+This isn't quite done yet. Here are some notes: shift+F10 opens command prompt
+
+net user Administrator /active:yes
+net user Administrator *
+ (or just enter the password explicitly instead of "*")
+
+regedit
+change stuff mentioned below
+
+shutdown -l
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceSetup]
+"OobeMode"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE]
+"DefaultAccountAction"=-
+"LaunchUserOOBE"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE\Stats]
+"OOBEUserSignedIn"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"AutoAdminLogon"="0"
+"SystemAutoLogon"=-
+"IsConnectedAutoLogon"=-
+"DisableLockWorkstation"=-
+"DisableCAD"=-
+"DisableBackButton"=-
+not sure if this is needed: (note from meklin, it is)
+
+added by meklin:
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"DEFAULTUSERNAME"="Administrator"
+"DEFAULTPASSWORD"=""
+"DEFAULTDOMAIN"="SYS"
+
+also required are SAM changes to unlock that Administrator account.
+delete the V key, change 8th line of F key's first bye from 11 to 10
+
+
+schtasks /delete /tn "{B08EE1C0-1212-4416-8BD9-4A3B767DDFAD}"
+alternate plan: map network drive and copy over autounattend.xml
+
+pnputil /add-driver e:\NetKVM\w10\amd64\netkvm.inf
+wpeinit
+ipconfig #verify that we have a valid IP
+net use z: \\server\share /user:domain\user ***PASSWORD*** # note that specifying password on command line is required -- it won't prompt interactively!
+copy z:\whatever.xml X:\AutoUnattend.xml
+net use z: /d
+...then proceed with install as per usual (note that you'll need to point setup to netkvm again to get in the new installation -- pnputil only installs it in the running PE environment
+from win8 notes: remember to do the stuff that oobe or unattend.xml normally does:
+
+time zone
+product key / activation
+network location
+set computer name
+com
