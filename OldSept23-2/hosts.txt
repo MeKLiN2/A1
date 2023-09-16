@@ -839,7 +839,7 @@ archive.org/details/@meklin
 0.0.0.0 t.checkappexec.microsoft.com
 0.0.0.0 tele.trafficmanager.net
 0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com.nsat­c.net
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatÂ­c.net
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.microsoft.com
