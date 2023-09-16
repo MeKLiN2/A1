@@ -1,1 +1,0 @@
-D:\zst\steam.exe -steamos -no-browser -nofriendsui -nochatui -manuallyclearframes 0 -nodircheck -norepairfiles -noverifyfiles -nocrashmonitor -nocloud -nocrashdialog -vrdisable -skipstreamingdrivers -single_core -cef-disable-gpu -cef-disable-sandbox
