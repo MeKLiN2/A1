@@ -15,11 +15,11 @@ Netprofm and Netman service can be turned back on though there is not much in th
 
 Set all your file assoications and install all your drivers and do all your modern ui windows settings before doing this as well as any changers to ncpa.cpl.
 
-http://i.imgur.com/yEARsTt.png 2.0
+2.0 http://i.imgur.com/yEARsTt.png
 
-https://i.imgur.com/39eWvwd.png 3.0
+3.0 https://i.imgur.com/39eWvwd.png
 
-3.1
+3.1 https://i.imgur.com/8qwoo0k.png https://i.imgur.com/iUWTCB7.png
 
                          [Lovingly hand-edited by MeKLiN Method  tinychat.com/cancers
                          [Sept. 16 2023: MEANT TO BE RUN ON C:\   youtube.com/indicator27
