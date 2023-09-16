@@ -1,0 +1,138 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\12]
+"Include"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\18]
+"Include"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\DefaultRules\3]
+"Include"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\SearchRoots\1]
+"ProvidesNotifications"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\SearchRoots\2]
+"ProvidesNotifications"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\12]
+"Include"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\18]
+"Include"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\CrawlScopeManager\Windows\SystemIndex\WorkingSetRules\3]
+"Include"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex]
+"DisableRecovery"=dword:00000001
+"DisableRobotsExclusion"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Crawls\0]
+"ExcludedTransactions"=dword:00000018
+"InProgress"=dword:00000000
+"LogStartAddId"=dword:0000ffff
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Crawls\1]
+"CrawlType"=dword:00000001
+"DoneAddingCrawlSeeds"=dword:00000001
+"ExcludedTransactions"=dword:00000018
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Crawls\2]
+"InProgress"=dword:00000000
+"LogStartAddId"=dword:0000ffff
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Crawls\3]
+"ExcludedTransactions"=dword:00000018
+"InProgress"=dword:00000000
+"LogStartAddId"=dword:0000ffff
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\Csc\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\DP\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\File\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\IEHistory\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\IERSS\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\Mapi\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Protocols\WinRT\0]
+"Included"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\0]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\1]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\10]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\11]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\12]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\13]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\2]
+"Included"=dword:00000000
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\3]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\4]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\5]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\6]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\7]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\8]
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\LocalHost\Paths\9]
+"Included"=dword:00000000
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gather\Windows\SystemIndex\Sites\{S-1-5-21-1392550716-2544749626-115864845-1000}\Paths\0]
+"Included"=dword:00000000
+"IncludeSubdirs"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gathering Manager\Applications\Windows\Projects\SystemIndex\ActivePlugins\0]
+"Disabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\Gathering Manager\Applications\Windows\Projects\SystemIndex\Plugins\0]
+"Disabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\PerformanceCounters]
+"Search"=-
+"USGATHERER"=-
+"USGTHRSVC"=-
+"USINDEX"=-
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\PHSearchConnectors\MAPI]
+"DoNotCreateSearchConnectors"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Search\ProtocolHandlers]
+"IEHistory"=-
+"IERSS"=-
+"Mapi"=-
+"WinRT"=-
