@@ -23,6 +23,8 @@ Set all your file assoications and install all your drivers and do all your mode
 
 3.1 https://i.imgur.com/8qwoo0k.png https://i.imgur.com/iUWTCB7.png
 
+back up your rpcepmap.dll and rpcss.dll ... if you are not running the newest windows 10 there is a chance your computer wont start up when the script replaces those with hex edited versions to close port 135. you can do this yourself by searching the .dll's you have with a hex editor and search for unicode string: 135 ... you will find hex bytes 33 00 33 00 33 00, or some sort, and when you click one of the 33's, it will show the corresponding unicode number on the right, in the ascii part, click the RIGHT three of ALL the "33"s shown highlighted from a search of unicode: 135 ... change the RIGHT three of each set of 33 to 0, so you will have 30 00 30 00 30 00, or something like it, and it will show EXACTLY "0.0.0" instead of "1.3.5" on the right once you change the hex bytes on the left.
+
                          [Lovingly hand-edited by MeKLiN Method  tinychat.com/cancers
                          [Sept. 16 2023: MEANT TO BE RUN ON C:\   youtube.com/indicator27
                          [       with NSUDO.EXE                  youtube.com/genjiaeneid
